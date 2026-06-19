@@ -56,7 +56,7 @@ plt.show()
 import cv2
 import matplotlib.pyplot as plt
 
-img = cv2.imread("boat.jpg")
+img = cv2.imread("images.jpeg")
 img = img[:,:,::-1]
 
 cropped = img[200:400,300:600]
@@ -73,7 +73,7 @@ plt.show()
 import cv2
 import matplotlib.pyplot as plt
 
-img = cv2.imread("boat.jpg")
+img = cv2.imread("images.jpeg")
 img = img[:,:,::-1]
 
 cropped = img[200:400,300:600]
