@@ -138,13 +138,4 @@ Each module is maintained as an individual repository containing:
 
 ---
 
-## Future Work
-
-* Real-time AI Vision Systems
-* Drone Vision Applications
-* Object Tracking and Re-identification
-* Pose-based Activity Recognition
-* Embedded Computer Vision using Edge Devices
-
----
-
+THANK YOU 
